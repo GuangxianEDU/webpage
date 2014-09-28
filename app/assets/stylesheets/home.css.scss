@@ -5,6 +5,7 @@
 
 // team
 .team {
+	padding-bottom: 100px;
 	.member {
 		margin: 15px 0;
 		.col-xs-3 {
@@ -37,9 +38,56 @@
 	}
 }
 
-
+// info
+.info {
+	padding-bottom: 100px;
+	.self-intro {
+		width: 700px;
+		margin: 0 auto;
+		.intro {
+			margin: 10px 0;
+			font-size: 18px;
+		}
+	}
+	.experience {
+		width: 700px;
+		margin: 0 auto;
+		font-size: 18px;
+		margin-top: 80px;
+		padding-top: 40px;
+		border-top: 1px solid #000000;
+	}
+	.calendar {
+		width: 700px;
+		margin: 0 auto;
+		margin-top: 20px;
+		.row {
+			height: 50px;
+			.col-xs-2 {
+				text-align: center;
+				height: 100%;
+				background-color: red;
+				p {
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+			.col-xs-10 {
+				height: 100%;
+				background-color: #4b4b4b;
+				p {
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+		}
+	}
+}
 // contact
 .contact {
+	padding-bottom: 100px;
 	.map {
 		width: 500px;
 		margin: 0 auto;
