@@ -187,3 +187,3194 @@ Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-27 23:41:36 -0700
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-27 23:41:36 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:19:53 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/jianzhongchen/.rvm/gems/ruby-2.1.2/gems/railties-4.1.4/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 25ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 71ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:21:59 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 73ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:22:12 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 67ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:55 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 69ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:24:56 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 299ms (Views: 293.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:41:58 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 78ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:20 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 85ms (Views: 84.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:42:21 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:43:36 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 82ms (Views: 81.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:43:37 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:43:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:37 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:37 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:37 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 01:43:38 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 01:43:39 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 01:43:40 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:43:40 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 69ms (Views: 68.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:43:48 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 01:43:49 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:43:50 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 01:43:51 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 01:43:51 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 01:46:57 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 86ms (Views: 85.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:46:57 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:46:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:46:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:46:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:46:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:46:58 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:46:58 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:46:59 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 38ms (Views: 37.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 01:46:59 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 43ms (Views: 42.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 01:47:00 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 01:47:00 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 69ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:22 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:23 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 01:47:24 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (2.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:47:24 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 01:47:25 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 34ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 01:47:25 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 32ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:47:29 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 48ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 58ms (Views: 57.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:47:35 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 62ms (Views: 60.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:06 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 57ms (Views: 56.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:07 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 01:48:08 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (2.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 35.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 01:48:08 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (3.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:48:09 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:28 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:28 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:49 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:50 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:48:51 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 70ms (Views: 69.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:13 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 63ms (Views: 62.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:14 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 64ms (Views: 63.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:39 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:54:40 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 44ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:28 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:55:29 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 63ms (Views: 62.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:17 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 50ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:18 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 103ms (Views: 102.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:56:52 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 61ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 01:57:14 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 83ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:44 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:00:45 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 45ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:00:46 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:00:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:46 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:00:46 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 52ms (Views: 50.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:02:39 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 58ms (Views: 57.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:15 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:05:17 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:05:18 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 43ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:05:19 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:05:19 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:05:20 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:05:20 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:05:56 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 70ms (Views: 68.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:05:56 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:05:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:56 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:57 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:05:57 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 57ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:05:58 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:05:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:58 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:05:58 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 74ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:29 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 50.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:06:30 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:06:31 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 38ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:06:31 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:06:32 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (3.6ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:07:16 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 48ms (Views: 45.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:17 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 55ms (Views: 54.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:07:18 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 50.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:34 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:35 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 57ms (Views: 56.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:08:36 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 71ms (Views: 68.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:20 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 41ms (Views: 40.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:09:21 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:05 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 53.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:06 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 59ms (Views: 58.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:07 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:10:41 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 58ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:42 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:42 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:42 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 55ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:10:43 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 63ms (Views: 62.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:11:16 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 69ms (Views: 68.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:17 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 70ms (Views: 69.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:49 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:11:50 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 70ms (Views: 68.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:29 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 48ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:30 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 82ms (Views: 81.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:52 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 50.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:13:53 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 80ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:03 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 70.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:04 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:15:35 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 64ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:15:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:15:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:36 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:15:36 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:16:36 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 73ms (Views: 72.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 68ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:37 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 67ms (Views: 66.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:52 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:16:53 -0700
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:16:54 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:16:55 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:16:56 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 82ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:17:18 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:17:19 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (3.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:17:20 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:17:21 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:17:21 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:17:25 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:17:25 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 41ms (Views: 40.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:17:25 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:17:53 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:17:58 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:18:22 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 71.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:22 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:22 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:23 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (2.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 78ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:47 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 61ms (Views: 59.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 46ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:18:48 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 73ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:19:03 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 59ms (Views: 58.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:04 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 76ms (Views: 75.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:19 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 38ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:19:20 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:19:22 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:19:23 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 55ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:19:24 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:19:25 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:19:33 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:19:34 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (2.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 32ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:19:35 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:06 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:20:07 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (1.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:26:18 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:26:19 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (2.4ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (6.7ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 82ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:27:09 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (3.4ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 42ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:27:10 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:27:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:10 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:27:10 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 68ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:38 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 84ms (Views: 83.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:30:40 -0700
+
+
+Started GET "/info" for 127.0.0.1 at 2014-09-28 02:53:36 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 45ms (Views: 44.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:53:37 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:53:38 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 49ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:58:03 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:58:04 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_header.html.erb (1.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 34ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 135ms (Views: 133.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:18 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 48ms (Views: 47.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 02:59:19 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (3.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 89ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:22 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:23 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (1.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 93ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:35 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:36 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 56ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:00:37 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 71ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:11 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 60ms (Views: 59.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:12 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 94ms (Views: 92.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:37 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-09-28 03:01:38 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 46.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:38 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-28 03:01:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:38 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:38 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:38 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-28 03:01:38 -0700

@@ -13,3 +13,47 @@
  *= require_tree .
  *= require_self
  */
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+ background:none;
+}
+
+// header
+.header {
+	height: 120px;
+	background-color: #ffffff;
+	.container {
+		width: 500px;
+		margin: 0 auto;
+		.title {
+			font-size: 18px;
+			text-align: center;
+		}
+		.navbar {
+			margin-top: 5px;
+			border-top: 2px solid #000000;
+			ul {
+				margin: 0 auto;
+				margin-top: 2px;
+				width: 400px;
+				float: none;
+				li {
+					width: 100px;
+					a {
+						width: 100%;
+						padding: 10px;
+						text-align: center;
+					}
+				}
+				.active {
+					border-bottom: 2px solid #000000;
+					a {
+						background-color: #ffffff;
+					}
+				}
+			}
+		}
+	}
+}
