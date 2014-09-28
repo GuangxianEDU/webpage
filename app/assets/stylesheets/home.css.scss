@@ -2,10 +2,47 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+
+// team
+.team {
+	.member {
+		margin: 15px 0;
+		.col-xs-3 {
+			padding: 0;
+			.name {
+				position: relative;
+			  width: 80%;
+			  height: 0;
+			  padding-bottom: 80%;
+				margin: 0 auto;
+				border: 1px solid #000000;
+				border-radius: 50%;
+				font-size: 23px;
+				text-align: center;
+				p {
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+		}
+		.intro {
+			.title {
+				font-size: 21px;
+			}
+			.content {
+				font-size: 18px;
+			}
+		}
+	}
+}
+
+
 // contact
 .contact {
 	.map {
-
+		width: 500px;
+		margin: 0 auto;
 	}
 	.contact-info {
 		width: 500px;

@@ -14,10 +14,11 @@
  *= require_self
  */
 
-.navbar .nav > .active > a,
-.navbar .nav > .active > a:hover,
-.navbar .nav > .active > a:focus {
+.navbar .nav > .active > a {
  background:none;
+}
+body {
+  min-width: 1200px;
 }
 
 // header
@@ -37,14 +38,16 @@
 			ul {
 				margin: 0 auto;
 				margin-top: 2px;
-				width: 400px;
+				width: 480px;
 				float: none;
 				li {
-					width: 100px;
+					width: 120px;
 					a {
 						width: 100%;
 						padding: 10px;
 						text-align: center;
+						color: #000000;
+						font-size: 20px;
 					}
 				}
 				.active {
@@ -52,6 +55,9 @@
 					a {
 						background-color: #ffffff;
 					}
+				}
+				a:hover {
+					color: #333;
 				}
 			}
 		}
