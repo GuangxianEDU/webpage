@@ -23,35 +23,47 @@ body {
 
 // header
 .header {
-	height: 120px;
 	background-color: #ffffff;
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 0;
 	.container {
 		width: 500px;
 		margin: 0 auto;
+		.logo {
+			width: 150px;
+			margin: 0 auto;
+			img {
+				width: 100%;
+			}
+		}
 		.title {
 			font-size: 18px;
 			text-align: center;
 		}
 		.navbar {
 			margin-top: 5px;
+			margin-bottom: 0;
 			border-top: 2px solid #000000;
+			border-bottom: none;
 			ul {
 				margin: 0 auto;
 				margin-top: 2px;
 				width: 480px;
 				float: none;
+				padding-left: 40px;
 				li {
-					width: 120px;
+					width: 100px;
 					a {
 						width: 100%;
-						padding: 10px;
+						padding: 10px 0;
 						text-align: center;
 						color: #000000;
 						font-size: 20px;
 					}
 				}
 				.active {
-					border-bottom: 2px solid #000000;
+					border-bottom: 3px solid #d91200;
 					a {
 						background-color: #ffffff;
 					}
@@ -60,6 +72,26 @@ body {
 					color: #333;
 				}
 			}
+		}
+	}
+}
+
+// footer
+.footer {
+	margin-bottom: 0;
+	background-color: #ffffff;
+	height: 50px;
+	line-height: 50px;
+	vertical-align: middle;
+	.container {
+		ul {
+			li {
+				margin: 0 5px;
+			}
+		}
+		.copy {
+			float: right;
+			font-size: 13px;
 		}
 	}
 }

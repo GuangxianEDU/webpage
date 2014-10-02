@@ -1,7 +1,8 @@
 <nav class="navbar navbar-default header" role="navigation">
   <div class="container">
-  	<div class="row"></div>
-  	<div class="row title"><span>ESTEEN</span> ACADEMY</div>
+  	<div class="row logo">
+  		<img src="assets/logo.png">
+  	</div>
   	<div class="row navbar">
 	    <ul class="nav navbar-nav">
 	      <li <% if current_page?(about_path)|| current_page?(root_path) %>class="active"<% end %>><%= link_to "关于我们", about_path() %></li>
