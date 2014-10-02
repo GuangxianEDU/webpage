@@ -15369,3 +15369,145 @@ Processing by HomeController#about as HTML
   Rendered layouts/_header.html.erb (0.5ms)
   Rendered layouts/_footer.html.erb (0.0ms)
 Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 77ms (Views: 76.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-01 20:44:05 -0700
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-01 20:44:10 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-01 20:44:10 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (3.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 77ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-01 20:45:31 -0700
+
+
+Started GET "/about" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 60ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-01 20:45:43 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-10-01 20:45:46 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 38ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-10-01 20:45:51 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-10-01 20:45:55 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2014-10-01 20:46:04 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/info" for 127.0.0.1 at 2014-10-01 20:46:05 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 28.9ms | ActiveRecord: 0.0ms)
