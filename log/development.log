@@ -16604,3 +16604,142 @@ Migrating to CreateUsers (20141004052942)
   [1m[35mSQL (0.4ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ($1)  [["version", "20141004052942"]]
   [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
   [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-03 22:40:50 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#about as HTML
+  Rendered home/about.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 61ms (Views: 50.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-03 22:40:50 -0700
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:40:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-03 22:40:50 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:40:50 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-10-03 22:41:07 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.html.erb (2.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:41:07 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:41:07 -0700
+
+
+Started GET "/info" for 127.0.0.1 at 2014-10-03 22:41:13 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:41:13 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:41:13 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-10-03 22:41:14 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:41:15 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:41:15 -0700
+
+
+Started GET "/info" for 127.0.0.1 at 2014-10-03 22:41:25 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:41:25 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:41:25 -0700
+
+
+Started GET "/team" for 127.0.0.1 at 2014-10-03 22:41:26 -0700
+Processing by HomeController#team as HTML
+  Rendered home/team.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:41:26 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:41:26 -0700
+
+
+Started GET "/info" for 127.0.0.1 at 2014-10-03 22:41:42 -0700
+Processing by HomeController#info as HTML
+  Rendered home/info.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:41:42 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:41:42 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-10-03 22:41:50 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 50.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 22:41:50 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 22:41:50 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-10-03 23:18:48 -0700
+Processing by HomeController#contact as HTML
+  Rendered home/contact.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-03 23:18:48 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-03 23:18:48 -0700
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-03 23:18:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-03 23:18:48 -0700
