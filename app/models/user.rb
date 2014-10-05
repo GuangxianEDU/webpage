@@ -1,6 +1,15 @@
 class User < ActiveRecord::Base
-	attr_accessible :name, :email
+	validates :name, :presence => true
+	validates :email, :presence => true, format: { with: /\A([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})\z/i, on: :create }, uniqueness: { case_sensitive: false }
+	has_secure_password
+	validates :password, length: { minimum: 6 }
+	validates_confirmation_of :password, if: lambda { |m| m.password.present? }
 
-	validates :name, :presence => true, :length => { :maximum => 30 }
-	validates :email, :presence => true
+	before_save { self.email = email.downcase }
+
+	private
+  ## Strong Parameters 
+  def user_params
+    params.require(:user).permit(:name, :password_digest, :password, :password_confirmation)
+  end
 end
