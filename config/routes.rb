@@ -6,6 +6,11 @@ Rails.application.routes.draw do
   get 'team' => 'home#team'
   get 'info' => 'home#info'
   get 'contact' => 'home#contact'
+  get 'admin' => 'home#admin'
+
+  get "signout" => "sessions#destroy", :as => "sign_out"
+  get "signin" => "sessions#new", :as => "sign_in"
+  post "signin" => "sessions#create"
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
