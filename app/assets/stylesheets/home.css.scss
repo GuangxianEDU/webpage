@@ -115,7 +115,8 @@
 				font-size: 16px;
 				text-align: center;
 				p {
-					position: relative;
+					width: 100%;
+					position: absolute;
 				  top: 50%;
 				  transform: translateY(-50%);
 				}

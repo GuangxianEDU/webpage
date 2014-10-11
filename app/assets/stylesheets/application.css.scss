@@ -31,7 +31,7 @@ body {
 	margin-top: 5px;
 	margin-bottom: 0;
 	.container {
-		width: 500px;
+		width: 720px;
 		margin: 0 auto;
 		.logo {
 			width: 150px;
@@ -47,22 +47,50 @@ body {
 		.navbar {
 			margin-top: 5px;
 			margin-bottom: 0;
+			border: none;
 			border-top: 2px solid #000000;
-			border-bottom: none;
 			ul {
 				margin: 0 auto;
 				margin-top: 2px;
-				width: 480px;
 				float: none;
-				padding-left: 40px;
+				text-align: center;
 				li {
-					width: 100px;
+					width: 120px;
 					a {
 						width: 100%;
 						padding: 10px 0;
 						text-align: center;
 						color: #000000;
 						font-size: 18px;
+					}
+				}
+				.dropdown {
+					margin: 0;
+					border: none;
+					.dropdown-menu {
+						margin: 0 auto;
+						float: none;
+						padding: 0;
+						border: none;
+						text-align: center;
+						width: 120px;
+						min-width: 0px;
+						li {
+							width: 120px;
+							a {
+								width: 100%;
+								padding: 10px 0;
+								text-align: center;
+								color: #000000;
+								font-size: 18px;
+							}
+						}
+						.active {
+							border: none;
+							a{
+								color: #d91200;
+							}
+						}
 					}
 				}
 				.active {

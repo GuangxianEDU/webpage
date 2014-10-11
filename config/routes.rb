@@ -6,6 +6,11 @@ Rails.application.routes.draw do
   get 'team' => 'home#team'
   get 'info' => 'home#info'
   get 'contact' => 'home#contact'
+  get 'fuwu' => 'home#fuwu'
+  get 'quxiang' => 'home#quxiang'
+  get 'anli' => 'home#anli'
+  get 'xuezhi' => 'home#xuezhi'
+  get 'mingxiao' => 'home#mingxiao'
   get 'admin' => 'home#admin'
 
   get "signout" => "sessions#destroy", :as => "sign_out"
