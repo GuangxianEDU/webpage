@@ -1,0 +1,17 @@
+<h1>Listing members</h1>
+ 
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Title</th>
+    <th>Content</th>
+  </tr>
+ 
+  <% @members.each do |member| %>
+    <tr>
+      <td><%= member.name %></td>
+      <td><%= member.title %></td>
+      <td><%= member.content %></td>
+    </tr>
+  <% end %>
+</table>

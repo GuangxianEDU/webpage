@@ -13,9 +13,19 @@ Rails.application.routes.draw do
   get 'mingxiao' => 'home#mingxiao'
   get 'admin' => 'home#admin'
 
+  # authentication
   get "signout" => "sessions#destroy", :as => "sign_out"
   get "signin" => "sessions#new", :as => "sign_in"
   post "signin" => "sessions#create"
+
+  resources :home_slides
+  resources :members
+  resources :news
+  resources :consults
+  resources :student_infos
+  resources :statistics
+
+  
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
