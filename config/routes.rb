@@ -14,17 +14,20 @@ Rails.application.routes.draw do
   get 'admin' => 'home#admin'
 
   # authentication
-  get "signout" => "sessions#destroy", :as => "sign_out"
-  get "signin" => "sessions#new", :as => "sign_in"
-  post "signin" => "sessions#create"
+  get 'signout' => 'sessions#destroy', :as => 'sign_out'
+  get 'signin' => 'sessions#new', :as => 'sign_in'
+  post 'signin' => 'sessions#create'
 
-  resources :home_slides
-  resources :members
-  resources :news
-  resources :consults
-  resources :student_infos
-  resources :statistics
+  scope 'admin' do
+    resources :home_slides
+    resources :members
+    resources :news
+    resources :consults
+    resources :student_infos
+    resources :statistics
+  end
 
+  get '*path', to: redirect('/about')
   
 
   # The priority is based upon order of creation: first created -> highest priority.
