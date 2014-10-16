@@ -18,14 +18,12 @@ Rails.application.routes.draw do
   get 'signin' => 'sessions#new', :as => 'sign_in'
   post 'signin' => 'sessions#create'
 
-  scope 'admin' do
-    resources :home_slides
-    resources :members
-    resources :news
-    resources :consults
-    resources :student_infos
-    resources :statistics
-  end
+  resources :home_slides
+  resources :members
+  resources :news
+  resources :consults
+  resources :student_infos
+  resources :statistics
 
   get '*path', to: redirect('/about')
   

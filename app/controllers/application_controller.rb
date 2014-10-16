@@ -8,8 +8,9 @@ class ApplicationController < ActionController::Base
   end
 
   def check_auth
-  	if current_user != nil
-  		redirect_to root_url
-  	end
+    if @current_user != nil
+      redirect_to root_url
+    end
   end
+
 end

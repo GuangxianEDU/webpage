@@ -1,5 +1,5 @@
 class MembersController < ApplicationController
-	before_action :check_auth!
+	before_action :check_auth
 	def new
 	end
 
@@ -21,5 +21,6 @@ class MembersController < ApplicationController
 	  def member_params
 	    params.require(:member).permit(:name, :title, :content)
 	  end
+
 
 end
