@@ -1,4 +1,7 @@
 class HomeController < ApplicationController
+  def home
+  end
+
   def about
   end
 
@@ -9,9 +12,6 @@ class HomeController < ApplicationController
   end
 
   def contact
-  end
-
-  def mingxiao
   end
 
   def fuwu

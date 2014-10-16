@@ -2,8 +2,8 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-// about
-.about {
+// home
+.home {
 	margin-top: -3px;
 	.head {
 		padding: 80px 0;
@@ -97,45 +97,8 @@
 		}
 	}
 }
-// team
-.team {
-	padding-bottom: 100px;
-	.member {
-		margin: 15px 0;
-		.col-xs-4 {
-			padding: 0;
-			.name {
-				position: relative;
-			  width: 80%;
-			  height: 0;
-			  padding-bottom: 80%;
-				margin: 0 auto;
-				border: 1px solid #000000;
-				border-radius: 50%;
-				font-size: 16px;
-				text-align: center;
-				p {
-					width: 100%;
-					position: absolute;
-				  top: 50%;
-				  transform: translateY(-50%);
-				}
-			}
-		}
-		.intro {
-			.title {
-				font-size: 18px;
-				color: #d91200;
-			}
-			.content {
-				font-size: 18px;
-			}
-		}
-	}
-}
-
-// info
-.info {
+// about
+.about {
 	padding-bottom: 100px;
 	.self-intro {
 		width: 700px;
@@ -182,6 +145,38 @@
 		}
 	}
 }
+// team
+.team {
+	padding-bottom: 100px;
+	.member {
+		margin: 15px 0;
+		.name {
+		  width: 15%;
+		  float: left;
+			font-size: 19px;
+			text-align: right;
+			p {
+				width: 100%;
+			}
+		}
+		.intro {
+			margin-left: 5%;
+			width: 80%;
+			float: left;
+			.title {
+				font-size: 18px;
+				color: #d91200;
+			}
+			.content {
+				font-size: 18px;
+			}
+		}
+	}
+}
+// info
+.info {
+
+}
 // contact
 .contact {
 	padding-bottom: 100px;
@@ -200,12 +195,12 @@
 		}
 	}
 }
-
+// xueshe/fuwu
 .fuwu {
 	padding-bottom: 100px;
 	margin-top: 20px;
 	.section1 {
-		width: 700px;
+		width: 800px;
 		margin: 0 auto;
 		.row {
 			height: 50px;
@@ -236,15 +231,294 @@
 		text-align: center;
 	}
 }
-
+// xueshe/quxiang
 .quxiang {
-
+	padding-bottom: 50px;
+	.overall {
+		width: 700px;
+		margin: 0 auto;
+		margin-top: 20px;
+		font-size: 18px;
+		.red-text {
+			color: #d91200;
+		}
+	}
+	.seperate {
+		.single {
+			.school-logo {
+				position: relative;
+				width: 70%;
+				margin: 0 auto;
+				margin-top: 30px;
+				img {
+					position: absolute;
+					top: 0;
+					left: 0;
+					bottom: 0;
+					right: 0;
+					width: 100%;
+					vertical-align: bottom;
+				}
+			}
+			.school-logo:before {
+				padding-top: 106%;
+			}
+			.name {
+				width: 95%;
+				margin: 0 auto;
+				text-align: center;
+				font-size: 14px;
+				border-bottom: 1px solid #000000;
+			}
+			.number {
+				color: #d91200;
+				float: left;
+				width: 30%;
+				text-align: right;
+				font-size: 14px;
+			}
+			.detail {
+				float: left;
+				width: 69%;
+				margin-left: 1%;
+				font-size: 14px;
+			}
+		}
+	}
 }
-
+// xueshe/anli
 .anli {
-
+	.anli-table {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 20px;
+		.row {
+			height: 80px;
+			.col-xs-3 {
+				text-align: left;
+				height: 100%;
+				background-color: #d91200;
+				p {
+					color: #ffffff;
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+			.col-xs-9 {
+				height: 100%;
+				background-color: #e9e9e9;
+				p {
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+		}
+	}
+	.jiyu {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 50px;
+		.title {
+			text-align: center;
+			font-size: 18px;
+			padding-bottom: 15px;
+			border-bottom: 1px solid #000000;
+		}
+		.jiyu-single {
+			margin-top: 10px;
+			font-size: 16px;
+		}
+	}
 }
-
+// xueshe/xuezhi
 .xuezhi {
+	.xuezhi-table {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 20px;
+		.xuezhi-single {
+			margin-bottom: 10px;
+			height: 120px;
+			.col-xs-3 {
+				text-align: center;
+				height: 100%;
+				background-color: #d91200;
+				p {
+					color: #ffffff;
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+			.col-xs-9 {
+				height: 100%;
+				background-color: #e9e9e9;
+				p {
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+				.row {
+					height: 30px;
+					line-height: 30px;
+					.col-xs-3 {
+						background-color: #e9e9e9;
+					}
+				}
+			}
+		}
+	}
+	.tongji {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 50px;
+		padding-bottom: 50px;
+		.title {
+			text-align: center;
+			font-size: 18px;
+			padding-bottom: 15px;
+			border-bottom: 1px solid #000000;
+		}
+		.tongji-single {
+			margin-top: 10px;
+			font-size: 16px;
+			.chart {
+				width: 100%;
+				border: 1px solid #000000;
+				img {
+					width: 100%;
+				}
+			}
+			.description {
 
+			}
+		}
+	}
+}
+// mingxiao/fuhua
+.fuhua {
+	.fuhua-table {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 20px;
+		.row {
+			height: 180px;
+			.col-xs-3 {
+				text-align: center;
+				height: 100%;
+				background-color: #d91200;
+				p {
+					color: #ffffff;
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+			.col-xs-9 {
+				height: 100%;
+				background-color: #e9e9e9;
+				.sub-title {
+					margin-top: 10px;
+					padding-bottom: 10px;
+					margin-bottom: 10px;
+					border-bottom: 1px dotted #000000;
+				}
+				.content {
+					line-height: 25px;
+				}
+			}
+		}
+	}
+	.fuhua-table2 {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 20px;
+		.row {
+			height: 450px;
+			.col-xs-3 {
+				height: 100%;
+				overflow: hidden;
+				padding-left: 0;
+				img {
+					height: 100%;
+				}
+			}
+			.col-xs-9 {
+				height: 100%;
+				background-color: #e9e9e9;
+				.sub-title {
+					margin-top: 10px;
+					padding-bottom: 10px;
+					padding-left: 40px;
+				}
+				.content {
+					.title-field {
+						border-top: 1px dotted #000000;
+						line-height: 25px;
+						padding-top: 5px;
+					}
+					.content-field {
+						line-height: 25px;
+						margin-bottom: 5px;
+					}
+				}
+			}
+		}
+	}
+}
+// mingxiao/fuwu
+.mingxiaofuwu {
+	.mingxiao-table {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 20px;
+		.row {
+			height: 300px;
+			.col-xs-3 {
+				text-align: center;
+				height: 100%;
+				background-color: #d91200;
+				p {
+					color: #ffffff;
+					position: relative;
+				  top: 50%;
+				  transform: translateY(-50%);
+				}
+			}
+			.col-xs-9 {
+				height: 100%;
+				background-color: #e9e9e9;
+				.sub-title {
+					margin-top: 10px;
+					padding-bottom: 10px;
+					margin-bottom: 10px;
+					border-bottom: 1px dotted #000000;
+				}
+				.content {
+					li {
+						line-height: 25px;
+						margin: 10px 0;
+					}
+
+				}
+			}
+		}
+	}
+	.mingxiao-table2 {
+		width: 800px;
+		margin: 0 auto;
+		margin-top: 20px;
+		.row {
+			height: 250px;
+			overflow: hidden;
+			position: relative;
+			img {
+				position: absolute;
+				width: 100%;
+				bottom: -25%;
+			}
+		}
+	}
 }
