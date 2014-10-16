@@ -6,11 +6,17 @@ Rails.application.routes.draw do
   get 'team' => 'home#team'
   get 'info' => 'home#info'
   get 'contact' => 'home#contact'
+
   get 'fuwu' => 'home#fuwu'
   get 'quxiang' => 'home#quxiang'
   get 'anli' => 'home#anli'
   get 'xuezhi' => 'home#xuezhi'
-  get 'mingxiao' => 'home#mingxiao'
+  
+  get 'fuhua' => 'home#fuhua'
+  get 'mingxiaofuwu' => 'home#mingxiaofuwu'
+  get 'mingxiaoanli' => 'home#mingxiaoanli'
+  get 'mingxiaoyoushi' => 'home#mingxiaoyoushi'
+  
   get 'admin' => 'home#admin'
 
   # authentication

@@ -26,6 +26,18 @@ class HomeController < ApplicationController
   def xuezhi
   end
 
+  def fuhua
+  end
+
+  def mingxiaofuwu
+  end
+
+  def mingxiaoanli
+  end
+
+  def mingxiaoyoushi
+  end
+
   def admin
 		if session[:user_id]
 			@user = User.find_by_id(session[:user_id])

@@ -7,7 +7,7 @@
 	    <ul class="nav navbar-nav">
 	      <li <% if current_page?(about_path) || current_page?(root_path) %>class="active"<% end %>><%= link_to "关于我们", about_path() %></li>
         <li <% if current_page?(fuwu_path) || current_page?(quxiang_path) || current_page?(anli_path) || current_page?(xuezhi_path) %>class="dropdown active"<% else %>class="dropdown"<% end %>>
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">广贤学舍 <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">广贤学舍<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
             <li <% if current_page?(fuwu_path) %>class="active"<% end %>><%= link_to "服务范围", fuwu_path() %></li>
             <li <% if current_page?(quxiang_path) %>class="active"<% end %>><%= link_to "学生去向", quxiang_path() %></li>
@@ -15,7 +15,15 @@
             <li <% if current_page?(xuezhi_path) %>class="active"<% end %>><%= link_to "2+2学制", xuezhi_path() %></li>
           </ul>
         </li>
-        <li <% if current_page?(mingxiao_path) %>class="active"<% end %>><%= link_to "名校孵化器", mingxiao_path() %></li>
+        <li <% if current_page?(fuhua_path) || current_page?(mingxiaofuwu_path) || current_page?(mingxiaoanli_path) || current_page?(mingxiaoyoushi_path) %>class="dropdown active"<% else %>class="dropdown"<% end %>>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">名校孵化器<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li <% if current_page?(fuhua_path) %>class="active"<% end %>><%= link_to "名校孵化器", fuhua_path() %></li>
+            <li <% if current_page?(mingxiaofuwu_path) %>class="active"<% end %>><%= link_to "服务范围", mingxiaofuwu_path() %></li>
+            <li <% if current_page?(mingxiaoanli_path) %>class="active"<% end %>><%= link_to "典型案例", mingxiaoanli_path() %></li>
+            <li <% if current_page?(mingxiaoyoushi_path) %>class="active"<% end %>><%= link_to "我们的优势", mingxiaoyoushi_path() %></li>
+          </ul>
+        </li>
 	      <li <% if current_page?(team_path) %>class="active"<% end %>><%= link_to "核心团队", team_path() %></li>
 	      <li <% if current_page?(info_path) %>class="active"<% end %>><%= link_to "我们的优势", info_path() %></li>
 	      <li <% if current_page?(contact_path) %>class="active"<% end %>><%= link_to "联系我们", contact_path() %></li>
