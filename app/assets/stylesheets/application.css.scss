@@ -14,11 +14,18 @@
  *= require_self
  */
 
+@font-face {
+	font-family: xingkai;
+	src: url('/assets/fonts/xingkai.ttf') format('truetype');
+}
+
+
 .navbar .nav > .active > a {
  background:none;
 }
 body {
   min-width: 900px;
+  font-family: xingkai;
 }
 .content-wrapper{
 	min-height: 800px;
