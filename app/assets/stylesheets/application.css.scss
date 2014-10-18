@@ -15,8 +15,8 @@
  */
 
 @font-face {
-	font-family: xingkai;
-	src: url('/assets/fonts/xingkai.ttf') format('truetype');
+	font-family: "xingkai";
+	src: url("../assets/fonts/Xingkai.TTF") format('truetype');
 }
 
 
@@ -25,7 +25,7 @@
 }
 body {
   min-width: 900px;
-  font-family: xingkai;
+  font-family: "xingkai";
 }
 .content-wrapper{
 	min-height: 800px;
