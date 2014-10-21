@@ -13,12 +13,18 @@
  *= require_tree .
  *= require_self
  */
+@font-face {
+	font-family: "custom1";
+	src: url(custom1.otf);
+}
+
 
 .navbar .nav > .active > a {
  background:none;
 }
 body {
   min-width: 900px;
+  font-family: "custom1";
 }
 .content-wrapper{
 	min-height: 800px;
