@@ -1,0 +1,24 @@
+<h1>New member</h1>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-8 col-xs-offset-2">
+			<%= form_for :member, url: members_path do |f| %>
+			  <div class="form-group">
+			    <%= f.label :name %>
+			    <%= f.text_field :name, :class=>"form-control" %>
+			  </div>
+			 	<div class="form-group">
+			    <%= f.label :title %>
+			    <%= f.text_field :title, :class=>"form-control" %>
+			  </div>
+			  <div class="form-group">
+			    <%= f.label :content %>
+			    <%= f.text_area :content, :class=>"form-control", :rows=>5 %>
+			  </div>
+			  <div class="form-group">
+			  	<center><%= f.submit 'Add member', :class=>"btn btn-default" %></center>
+			  </div>
+			<% end %>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,15 @@
+<h1>Listing news_feeds</h1>
+ 
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Content</th>
+  </tr>
+ 
+  <% @news_feeds.each do |news_feed| %>
+    <tr>
+      <td><%= news_feed.title %></td>
+      <td><%= news_feed.content %></td>
+    </tr>
+  <% end %>
+</table>

@@ -27,7 +27,7 @@ Rails.application.routes.draw do
 
   resources :home_slides
   resources :members
-  resources :news
+  resources :news_feeds
   resources :consults
   resources :student_infos
   resources :statistics
