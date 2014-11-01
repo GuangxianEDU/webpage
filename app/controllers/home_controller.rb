@@ -9,6 +9,7 @@ class HomeController < ApplicationController
 
   def team
     @title = "核心团队"
+    @members = Member.all
   end
 
   def info
